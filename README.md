@@ -2,9 +2,6 @@
 
 redeveloped by yassine benmansour on 11/3/2022
 
-Pour effet la compilation de cette programme on utilisera
-logiciel Dev-C++.
-
 
 
 menu
@@ -17,6 +14,7 @@ Erreur, information inexistante...
 
 
 Choix A   A pour sortir de l'application function permet d'obtenir le choix pour l’option sorti
+
 Desirez vous vraiment quitter l'application (O/N)?:
 O pour Quitter
 N pour retourner   l'application   menu()
@@ -27,7 +25,6 @@ ceci n'apparait pas dans la liste de choix...
 choix B   B pour les fonctionnalites des eleve
 function permet d'obtenir le choix pour l’option fonctionnalites des eleve
 
-choix
 Q pour Quitter
 V pour Visualiser
 C pour Chercher
@@ -36,8 +33,6 @@ M pour Modifier les informations d'un eleve
 S pour Supprimer un eleve de la liste
 R pour retourner au menu principal
 
-Suposons on veut visualiser ou bien afficher les informations
-function affiche permet d'afficher les informations
 
 
 Choix C   - C pour les fonctionnalites des livres
@@ -51,14 +46,10 @@ M pour Modifier les informations d'un livre
 S pour Supprimer un livre de la liste
 R pour retourner au menu principal
 
-fonction affiche permet d'afficher les informations d'un livre
-
-
-function lire permet de lire les informations dans le fichier livre.txt
-
 
 Choix D   D pour les fonctionnalites des emprunts
 function obtenir permet d'obtenir les fonctionnalites des enprunts
+
 Q pour Quitter
 V pour Visualiser
 C pour Chercher
@@ -67,8 +58,6 @@ M pour Modifier les informations d'un livre
 S pour Supprimer un livre de la liste
 R pour retourner au menu principal
 
-function afficherss permet d'afficher les informations sur l'emprunts
 
-function demander permet de recuperer les informations sur l'emprunt
 
 
